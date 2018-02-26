@@ -1,4 +1,4 @@
-![image](https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_GUI.JPG)
+<img src="https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_GUI.JPG" width="400">
 ![image](https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_back.JPG)
 ![image](https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_casing.JPG)
 ![image](https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_casing_no_electronics.JPG)
