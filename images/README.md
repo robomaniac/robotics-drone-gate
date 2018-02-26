@@ -6,13 +6,8 @@
 <img src="https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_over_view.JPG">  
 <img src="https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_overall.JPG">  
 <img src="https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_overall.JPG">  
-
-![image]()
-![image]()
-![image]()
-![image]()
-![image](https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_overall.JPG)  
-![image](https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_servo.JPG)  
-![image](https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_servo_horn.JPG)  
-![image](https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_tripod.JPG)  
-![image](https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_tripod_mount.JPG)  
+<img src="https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_overall.JPG"> 
+<img src="https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_servo.JPG"> 
+<img src="https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_servo_horn.JPG"> 
+<img src="https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_tripod.JPG"> 
+<img src="https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_tripod_mount.JPG"> 
