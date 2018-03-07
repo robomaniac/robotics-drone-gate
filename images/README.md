@@ -9,3 +9,4 @@
 <img src="https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_servo_horn.JPG"> 
 <img src="https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_tripod.JPG"> 
 <img src="https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_tripod_mount.JPG"> 
+<img src="https://github.com/robomaniac/robotics-drone-gate/blob/master/images/drone_gate_original_schematic.jpg"> 
